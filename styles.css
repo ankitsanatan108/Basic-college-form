@@ -1,0 +1,53 @@
+
+#sbox{
+    height: 20px;
+    margin-right: 50px;
+
+}
+#box{
+    height: 25px;
+    width: 1000px;
+}
+#b1{
+    height: 20px;
+    width:25px;
+}
+#head{
+    height: 110px;
+    width: 32%;
+    background-image: url(images.jpg);
+    background-size: cover;
+}
+h1{
+    text-align: center;
+    background-color:rgb(94, 94, 197);    
+}
+#body{
+    height: 100%;
+    width: 100%s;
+    background-image: url(images\ bg.jpg);
+    background-size: cover;
+}
+.but{
+    text-align: center;
+}
+#sub{
+    text-align: center;
+    background-color: aqua;
+}
+button{
+    font-size: 20px;
+    color: pink;
+    background-color: blueviolet;
+    border-right-color: rgb(99, 40, 207);
+    border-bottom-color:rgb(99, 40, 207);
+}
+#link{
+    width: 100%;
+    background-color: yellow;
+    text-align: right;
+}
+#v{
+    text-align: center;
+    text-wrap-mode:wrap;
+}
