@@ -50,4 +50,6 @@ button{
 }
 #v{
     text-align: center;
+    display : inline-block;
+    
 }
