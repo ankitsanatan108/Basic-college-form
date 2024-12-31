@@ -24,9 +24,9 @@ h1{
 }
 #body{
     height: 100%;
-    width: 100%s;
+    width: 100%;
     background-image: url(images\ bg.jpg);
-    background-size: cover;
+    background-size: contain;
 }
 .but{
     text-align: center;
@@ -41,6 +41,7 @@ button{
     background-color: blueviolet;
     border-right-color: rgb(99, 40, 207);
     border-bottom-color:rgb(99, 40, 207);
+    margin-left : 20em;
 }
 #link{
     width: 100%;
