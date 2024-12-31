@@ -16,7 +16,7 @@
     height: 110px;
     width: 32%;
     background-image: url(images.jpg);
-    background-size: cover;
+    background-size: contain;
 }
 h1{
     text-align: center;
@@ -50,5 +50,4 @@ button{
 }
 #v{
     text-align: center;
-    text-wrap-mode:wrap;
 }
